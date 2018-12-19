@@ -1,0 +1,11 @@
+<!--pages/next/next.wxml-->
+<view class='container'>
+<image src="/pages/image/fangguai1.jpg"></image>
+<text style='color:gray'>欢迎使用智能打拐小程序</text>
+<view class="body-view">
+    <switch class='button-size' bindchange="switch1Change"/>
+    <text>请开启防拐之路</text>
+</view>
+</view>
+<button bindtap="startBtn">Get</button>
+<button bindtap="pauseBtn">Stop</button>

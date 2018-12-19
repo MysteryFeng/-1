@@ -1,0 +1,29 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/next/next"
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "智能打拐",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "list":[
+      {
+        "text":"消息中心",
+  "pagePath":"pages/index/index",
+        "iconPath":"pages/image/icon6.png",
+        "selectedIconPath":"pages/image/icon4.png"
+      },
+      {
+        "text":"个人中心",
+        "pagePath":"pages/next/next",
+
+     "iconPath":"pages/image/icon5.png",     "selectedIconPath": "pages/image/icon3.png"
+      }
+    ]
+  }
+}

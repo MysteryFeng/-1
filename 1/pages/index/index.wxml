@@ -1,0 +1,3 @@
+<!--index.wxml-->
+<image class='user-banner'src='/pages/image/fangguai2.jpg'></image>
+<text class='userinfo'>获得孩子最新的动态数据</text>

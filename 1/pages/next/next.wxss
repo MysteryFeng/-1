@@ -1,0 +1,18 @@
+/* pages/next/next.wxss */
+.container {
+  background-color: #eee;
+    height: 100vh;
+  text-align: center;
+}
+text{
+  display:block;
+margin-top: 20rpx;
+}
+image {
+width: 700rpx; 
+margin-top: 0rpx ;
+}
+.button-size{
+  width: 200rpx;
+  height: 50rpx;
+}
